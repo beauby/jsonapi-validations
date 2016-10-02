@@ -1,3 +1,6 @@
+require 'jsonapi/validations/relationship'
+require 'jsonapi/validations/resource'
+
 module JSONAPI
   module_function
 
