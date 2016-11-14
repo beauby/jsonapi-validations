@@ -1,3 +1,6 @@
+# Deprecated
+This project was abandonned and is not maintained anymore.
+
 # jsonapi-validations
 Ruby gem for validating [JSON API](http://jsonapi.org) payloads.
 
