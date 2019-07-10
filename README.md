@@ -1,5 +1,5 @@
 # Deprecated
-## This project was abandonned and is not maintained anymore. For validation, see [jsonapi-parser](https://github.com/jsonapi-rb/parser). For deserialization, see [jsonapi-deserializable](https://github.com/jsonapi-rb/deserializable).
+## This project was abandoned and is not maintained anymore. For validation, see [jsonapi-parser](https://github.com/jsonapi-rb/parser). For deserialization, see [jsonapi-deserializable](https://github.com/jsonapi-rb/deserializable).
 
 # jsonapi-validations
 Ruby gem for validating [JSON API](http://jsonapi.org) payloads.
